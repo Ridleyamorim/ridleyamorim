@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**Ridleyamorim/ridleyamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/ridleyamorim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridleyamorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridleyamorim&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block" align="middle"><br>
+  <img align="center" alt="Ridley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+<img align="center" alt="Ridley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Ridley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ridley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<hr>
+<div>
+  <a href="https://instagram.com/ridleyamorim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ridley-amorim-9634ba177" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ridleyamorim@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
+<p>- 🌱 I’m currently learning Python 3, and then I plan to study Django framework;
+<br>- 💬 I have 31 years old, and looking forward to help anyone who needs me;
+<br>- ⚡ Fun fact: I have a degree in Business Administration, but i'm changing my caree to Web Development.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+  
+  
