@@ -19,9 +19,9 @@
   <a href = "mailto:ridleyamorim@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p>- 🌱 I’m currently learning Python 3, and then I plan to study Django framework;
+<p>- 🌱 I’m currently learning Django framework;
 <br>- 💬 I have 31 years old, and looking forward to help anyone who needs me;
-<br>- ⚡ Fun fact: I have a degree in Business Administration, but i'm changing my caree to Web Development.</p>
+<br>- ⚡ Fun fact: I have a degree in Business Administration, but i change my caree to Web Development and I'm very happy!</p>
 
 
   
