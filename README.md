@@ -10,7 +10,8 @@
   <img align="center" alt="Ridley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
 <img align="center" alt="Ridley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ridley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ridley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Ridley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Ridley-Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
 </div>
 <hr>
 <div>
@@ -19,7 +20,7 @@
   <a href = "mailto:ridleyamorim@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p>- 🌱 I’m currently learning Django framework;
+<p>- 🌱 I’m currently doing a especialization on Full Stack Web Developer, and studying Django Framework separately;
 <br>- 💬 I have 31 years old, and looking forward to help anyone who needs me;
 <br>- ⚡ Fun fact: I have a degree in Business Administration, but i change my caree to Web Development and I'm very happy!</p>
 
