@@ -22,7 +22,7 @@
 
 <p>- 🌱 I’m currently doing a especialization on Full Stack Web Developer, and studying Django Framework separately;
 <br>- 💬 I have 31 years old, and looking forward to help anyone who needs me;
-<br>- ⚡ Fun fact: I have a degree in Business Administration, but i change my caree to Web Development and I'm very happy!</p>
+<br>- ⚡ Fun fact: I have a degree in Business Administration, but i change my caree to Web Development. It was the best choice that i had in my entire life!</p>
 
 
   
