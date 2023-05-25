@@ -21,7 +21,7 @@
   <a href = "mailto:ridleyamorim@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br><br>
-<p>- 🌱 I’m currently doing a especialization on Full Stack Web Development, and studying Java separately;
+<p>-  🌱 I am currently pursuing a specialization in Full Stack Web Development while simultaneously studying Java;
 <br>- 💬 I'm 33 years old, and looking forward to help anyone who needs me;
 <br>- ⚡ Fun fact: I have a degree in Business Administration, but i change my caree to Web Development. It was the best choice that i had in my entire life!</p>
 
