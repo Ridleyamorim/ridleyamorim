@@ -22,7 +22,7 @@
 <br><br>
 <p>-  🌱 I am currently pursuing a specialization in Full Stack Web Development while simultaneously studying Go and MongoDb;
 <br>- 💬 I'm 33 years old, and looking forward to help anyone who needs me;
-<br>- ⚡ Fun fact: I have a degree in Business Administration, but i change my caree to Web Development. It was the best choice that i had in my entire life!</p>
+<br>- ⚡ Fun fact: I have a degree in Business Administration, but I change my caree to Web Development. It was the best choice that I had in my entire life!</p>
 
 
   
